@@ -1,0 +1,8 @@
+{
+ "model": "Random Forest",
+ "threshold": 0.491,
+ "precision": 0.949,
+ "recall": 0.824,
+ "f1": 0.882,
+ "pr_auc": 0.87
+}
